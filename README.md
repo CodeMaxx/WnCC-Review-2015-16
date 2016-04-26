@@ -13,5 +13,5 @@ The **Mangers** of the club during this time were:
 
 #####  For any Queries or Views, comment on the Presentation on [slides.com](http://slides.com/codemaxx/wncc-review-2015-16#/)
 
-Cheers
+Cheers<br/>
 [Akash Trehan](https://github.com/CodeMaxx)
